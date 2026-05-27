@@ -411,11 +411,11 @@ Executive Reporting
 
 
 ## Executive Reports
-<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/cafc3b90-802b-4463-a254-b8d8819d1ee3" />
-
+<img width="1892" height="902" alt="image" src="https://github.com/user-attachments/assets/884c6c54-46b3-47df-9247-853b473dc73f" />
 
 ## AI Assistant
-<img width="1892" height="902" alt="image" src="https://github.com/user-attachments/assets/884c6c54-46b3-47df-9247-853b473dc73f" />
+
+<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/cafc3b90-802b-4463-a254-b8d8819d1ee3" />
 
 
 
