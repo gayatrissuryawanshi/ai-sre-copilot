@@ -421,7 +421,7 @@ Executive Reporting
 
 ---
 
-# 👩‍💻 Team
+# 👩‍💻 Team Tensor Twins
 
 - Gayatri Suryawanshi
 - Vaibhavi Chavan
